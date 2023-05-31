@@ -71,6 +71,7 @@ Response
   "message": "Article created successfully!"
 }
 ```
+```
 - Get all articles
  This protected API allows an authenticated user to create an article. The JWT token must be included in the authorization header of the request.
   ```json
@@ -100,7 +101,7 @@ Response
   "name": "John Smith",
   "age": 30
 }
-```
+ ```
 Response 
  ```json
 {
