@@ -1,1 +1,12 @@
 # sploot
+/api/signup(for signing up new user)
+![Alt Text](./sampleImage/1.png)
+/api/login(for login)
+![Alt Text](./sampleImage/2.png)
+![Alt Text](./sampleImage/3.png)
+![Alt Text](./sampleImage/4.png)
+![Alt Text](./sampleImage/5.png)
+![Alt Text](./sampleImage/6.png)
+![Alt Text](./sampleImage/7.png)
+![Alt Text](./sampleImage/8.png)
+![Alt Text](./sampleImage/9.png)

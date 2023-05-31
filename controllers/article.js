@@ -30,7 +30,7 @@ exports.createArticle = async (req, res) => {
 exports.getAllArticles = async (req, res) => {
     try {
         const articles = await Article.find();
-        res.status(200).send({ articles });
+        res.status(200).json({ articles });
     }
     catch (error) {
         res.json({
